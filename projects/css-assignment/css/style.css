@@ -1,0 +1,24 @@
+h1, body, h2 {
+	font-family: 'Crimson Text', serif;
+}
+#top {
+	font-family: 'Lato', sans-serif;
+}
+.byline {
+	font-weight: 700;
+}
+h1 {
+	font-size: 32px;
+}
+.section {
+	font-size: 13px;
+}
+.biobox {
+	font-family: 'Arial', sans-serif;
+}
+.byline, .credit, .section {
+	text-transform: uppercase;
+}
+.credit, .caption {
+	font-style: italic;
+}
