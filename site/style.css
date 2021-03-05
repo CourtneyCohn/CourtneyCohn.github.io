@@ -1,0 +1,34 @@
+
+.content{
+	padding-top: 10%;
+}
+
+h1{
+	font-family: 'Playfair Display', serif;
+	font-color: #0A1172;}
+
+h2{
+	font-family: 'Noto Serif',serif;
+	font-color: #1338BE;
+}
+
+h3{
+	font-family: 'Noto Serif',serif;
+
+}
+
+h4{
+	font-family: 'Noto Serif',serif;
+}
+
+p{
+	font-family:'Lato', sans-serif;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
