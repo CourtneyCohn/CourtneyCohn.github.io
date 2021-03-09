@@ -1,15 +1,16 @@
 
 .content{
-	padding-top: 10%;
+	margin-top: 40%;
 }
 
 h1{
 	font-family: 'Playfair Display', serif;
-	font-color: #0A1172;}
+	color: #0A1172;
+}
 
 h2{
 	font-family: 'Noto Serif',serif;
-	font-color: #1338BE;
+	color: #1338BE;
 }
 
 h3{
