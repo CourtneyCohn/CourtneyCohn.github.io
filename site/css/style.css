@@ -1,15 +1,73 @@
-
 .content{
-	padding-top:10%;}
+	margin-top: 1%;
+	margin-left: 1%;
+}
+
+.navbar-brand{
+	font-family: 'Playfair Display', serif;
+	font-size: 25px;
+	border-right: 1px solid;
+	border-bottom: 1px solid;
+	padding: 7px;
+}
+
+.column1of2{
+	float: left;
+	width: 250px;
+	margin: 1px;
+	margin-top: 8px;
+
+}
+
+.column2of2{
+	float: left;
+	width: 400px;
+	margin: 1px;
+	border-right: 1px solid;
+	border-bottom: 1px solid;
+	padding-right: 4px;
+
+
+}
+
+.headshot{
+
+}
+
 h1{
 	font-family: 'Playfair Display', serif;
+	color: #0A1172;
+	padding: 10px;
 }
 
 h2{
 	font-family: 'Noto Serif',serif;
 }
 
-p{
-	font-family:'Lato', sans-serif;
+
+h3{
+	font-family: 'Noto Serif',serif;
+
 }
 
+h4{
+	font-family: 'Noto Serif',serif;
+}
+
+p{
+	font-family:'Lato', sans-serif;
+	float: right;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+.img-fluid{
+	width: 300px;
+	height: 320px;
+}
