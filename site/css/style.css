@@ -1,101 +1,86 @@
-.content{
+.content {
 	margin-top: 1%;
 	margin-left: 1%;
-
 }
-
-.navbar-brand{
+.navbar-brand {
 	font-family: 'Playfair Display', serif;
 	font-size: 28px;
 	border-right: 1px solid;
 	border-bottom: 1px solid;
-	padding: 7px;}
-
-
-h1{
+	padding: 7px;
+}
+h1 {
 	font-family: 'Playfair Display', serif;
 	font-size: 28px;
 	color: #0A1172;
 	margin-left: 6px;
-
 }
-
-.aboutme h2{
-	font-family: 'Noto Serif',serif;
+.aboutme h2 {
+	font-family: 'Noto Serif', serif;
 	font-size: 28px;
-}
-
-.resume h2{
-	font-family: 'Noto Serif',serif;
 	color: #0A1172;
-
 }
-
-.resume h3{
-	font-family:'Lato', sans-serif;
+.resume h2 {
+	font-family: 'Noto Serif', serif;
+	color: #0A1172;
+}
+.resume h3 {
+	font-family: 'Lato', sans-serif;
 	font-size: 20px;
 	color: blue;
-
 }
-
-.resume h4{
-	font-family:'Lato', sans-serif;
-	font-size: 20px;	
+.resume h4 {
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
 	font-style: italic;
-
 }
-
-.resume li{
-
-	font-family:'Lato', sans-serif;
-	size:20px;
-
+.resume li {
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
 }
-
-h4{
-	font-family: 'Noto Serif',serif;
+h4 {
+	font-family: 'Noto Serif', serif;
 }
-
-.aboutme p{
-	font-family:'Lato', sans-serif;
+.aboutme p {
+	font-family: 'Lato', sans-serif;
 	float: right;
 	border-right: 1px solid;
 	border-bottom: 1px solid;
-	padding: 3px;}
+	padding: 3px;
 }
-
 
 .row {
-  display: flex;
-
+	display: flex;
 }
-
-.img-fluid{
+.img-fluid {
 	margin-top: 8px;
 	height: 280px;
 	border: 1px solid;
 }
-
-.resumeintro{
+.resumeintro {
 	margin-top: 5px;
 	margin-left: 1px;
-
 }
-
-
-.contact p{
+.contact p {
 	margin-left: 10px;
-	color: blue;
 }
-
-.clips h1{
+.clips h1 {
 	margin-right: 50px;
 }
 .clips h2 {
 	font-size: 20px;
-
+	font-family: 'Noto Serif', serif;
+	font-weight: bold;
 }
-
-.clips h3{
+.clips h3 {
 	font-size: 16px;
+}
+.articles {
+	margin-left: 25px;
+}
+.final6 {
+	margin-left: 20px;
+}
+.blackpanther {
+	margin-left: 35px;
 }
