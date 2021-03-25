@@ -1,0 +1,100 @@
+h1 {
+	margin-top: 10%;
+}
+h2 {
+	color: #9e2009;
+	font-size: 17px;
+	font-weight: 600;
+	text-transform: uppercase;
+	margin-left: 9px;
+}
+h3 {
+	font-size: 20px;
+	margin-left: 12px;
+}
+h4 {
+	font-size: 16px;
+}
+p {
+	padding-left: 2%;
+	padding-right: 2%;
+}
+h2, h3, h4, .beauty, .top {
+	font-family: 'Montserrat', sans-serif;
+}
+p, ul {
+	font-family: 'Shippori Mincho B1', serif;
+}
+.beauty {
+	font-size: 40px;
+	font-weight: 700;
+}
+.brawl {
+	font-size: 120px;
+	font-weight: 800;
+	letter-spacing: 5px;
+	line-height: 0.7;
+}
+.inclusive {
+	font-size: 23px;
+	font-weight: 400;
+	text-transform: uppercase;
+}
+p.top {
+	padding-top: 5%;
+	padding-bottom: 5%;
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
+}
+.box {
+	border: 1px solid #ededed;
+	background-color: #ededed;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.box2 {
+	border: 1px solid #ededed;
+	background-color: #ededed;
+	padding: 10px;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+.names {
+	text-decoration: underline;
+	text-decoration-color: #9e2009;
+}
+.footer {
+	font-size: 12px;
+	border: 1px solid #ededed;
+	background-color: #ededed;
+	margin-top: 25px;
+}
+.link {
+	color: black;
+	text-decoration: underline;
+	text-decoration-color: #9e2009;
+}
+.navbar {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.img-fluid {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+@media (max-width: 600px) {
+	.beauty {
+		font-size: min(30px);
+		line-height: 1.2;
+	}
+	.brawl {
+		font-size: 60px;
+		letter-spacing: 1px;
+	}
+	.inclusive {
+		font-size: 13px;
+	}
+}
+
+
+
