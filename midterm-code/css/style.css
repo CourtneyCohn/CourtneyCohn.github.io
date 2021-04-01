@@ -1,0 +1,192 @@
+
+
+.background
+{
+	background-color: #fc5f1a;
+}
+
+h3{
+	color: orange;
+	font-size:70px
+	letter-spacing: 2.5px;
+
+}
+
+
+h1, h3{
+
+font-family: 'Anton', sans-serif;
+text-transform: uppercase;
+text-align: center;
+}
+
+
+.small{
+	
+	font-size: 60px;
+	margin-top: 5%;
+}
+
+.small2{
+	font-size: 60px;
+}
+
+
+.big{
+
+	font-size: 120px;
+}
+
+
+.bio
+{
+	font-weight: 500;
+	font-style: italic;
+	line-height: 1;
+
+}
+
+
+
+.bio {
+	text-align: center;
+}
+
+
+
+.p, .ul{
+	font-size: 18px;
+	font-family: 'Nunito', sans-serif;
+
+}
+
+
+.chart
+{
+	margin: 0 auto;
+	display: block;
+}
+
+.underline{
+	text-decoration: underline;
+	text-decoration-color: #ffa500;
+	color: black;
+	font-weight: 600;
+
+}
+
+.box1, .box2{
+	border: 1px solid white;
+	background-color: white;}
+
+
+.box1{
+	padding-top: 5%;
+	padding-bottom: 5%;
+	margin-top: 2%;
+	margin-bottom: 2%;}
+
+
+.h3{
+font-size: 70px;
+letter-spacing: 2.5px;
+color: orange;	
+}
+
+
+.titlebox{
+	border: 1px #010833;
+	background-color: #010833;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin-top: 2%
+	margin-bottom: 2%;
+	width:100%;
+}
+
+.League{
+	font-weight: 500;
+	letter-spacing: 1.5px;
+	color: #ffa500;
+	font-size: 18px;
+	
+}
+
+.Player{
+	font-size: 30px;
+	margin: 0;
+	padding: 0;
+}
+
+.line3{
+	font-weight: 200;
+	font-size: 16px;
+	color: #010833;
+
+}
+
+.player{
+	font-family: 'Anton', sans-serif;
+	font-size: 30px;
+	margin: 0;
+	padding: 0;
+	text-transform: uppercase;
+}
+
+.subhead{
+	font-family: 'Anton', sans-serif;
+	text-transform: uppercase;
+
+}
+
+.center{
+	text-align: center;
+}
+
+
+.title{
+	font-weight: 600;
+}
+
+.title,.data{
+	font-size: 14px;
+}
+
+.line{
+	top-border: 2px white solid;
+	width: 25%;
+	margin: 0 auto;
+	margin-top: 1%;
+}
+
+.endmargin{
+	margin-bottom: 5%;
+}
+
+@media (max-width: 576px) {
+	.small,.small2 {
+		font-size: 37px;
+		l;
+	}
+	.big {
+		font-size: 85px;
+	}
+	
+	p{
+		font-size: 18px;
+		line-height: 1.75;
+
+	}
+	
+	.line3{
+		font-size: 15px;
+		line-height: 1.75;
+
+	}	
+}
+
+@media (max-width: 576px){
+
+	
+}
+

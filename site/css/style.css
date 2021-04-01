@@ -5,25 +5,77 @@
 .navbar-brand {
 	font-family: 'Playfair Display', serif;
 	font-size: 28px;
-	border-right: 1px solid;
-	border-bottom: 1px solid;
+	/*border-right: 1px solid;
+	border-bottom: 1px solid;*/
 	padding: 7px;
 }
-h1 {
+/*h1 {
 	font-family: 'Playfair Display', serif;
 	font-size: 28px;
 	color: #0A1172;
-	margin-left: 6px;
-}
-.aboutme h2 {
+
+
+}*/
+
+.h2{
 	font-family: 'Noto Serif', serif;
 	font-size: 28px;
 	color: #0A1172;
+
 }
-.resume h2 {
+
+p, h3, h4, li {
+	font-family: 'Lato', sans-serif;
+}
+	
+h3{
+	color:blue;
+}
+h4{
+	font-style: italic;
+}
+.about p{
+	padding-right: 5%;
+	padding-bottom: 5%;
+	border-right: 1px solid darkgray;
+	border-bottom: 1px solid darkgray;
+}
+
+h3,h4,li
+{font-size: 20px;}
+
+.about
+.resume
+.clips
+.contact
+{
+	margin-top: 5%;
+}
+
+/* clips*/
+
+.article{
+	font-size: 20px
+	
+	font-weight bold;
+}
+
+
+/* mobile only*/
+@media(max-width: 564px){
+	.navbarbrand{
+		border-right: 0;
+		border-bottom: 0;
+	}
+}
+
+
+/*.aboutme h2 {
 	font-family: 'Noto Serif', serif;
+	font-size: 28px;
 	color: #0A1172;
-}
+
+
 .resume h3 {
 	font-family: 'Lato', sans-serif;
 	font-size: 20px;
@@ -41,13 +93,8 @@ h1 {
 h4 {
 	font-family: 'Noto Serif', serif;
 }
-.aboutme p {
-	font-family: 'Lato', sans-serif;
-	float: right;
-	border-right: 1px solid;
-	border-bottom: 1px solid;
-	padding: 3px;
-}
+
+
 
 .row {
 	display: flex;
