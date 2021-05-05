@@ -4,9 +4,14 @@ h1{
 	color: white;
 	text-align: center;
 	padding: 15px;
+	margin-bottom: 1px;
+	font-family: 'Merriweather', serif;
+	
+	
 
 }
 
+/*
 .boxblue{
 	border: 1px lightskyblue;
 	background: lightskyblue;
@@ -22,4 +27,39 @@ h1{
 	margin-left: 10px
 	margin-right: 10px;
 }
+
+*/
+
+h4{
+	text-decoration: underline;
+	text-decoration-color: lightskyblue;
+
+	
+
+}
+
+body{
+	background: lightskyblue;
+}
+
+
+.story{
+	background: white;
+	padding: 2%;
+	
+}
+
+/*.box{
+	border: 1px lightskyblue;
+	background: lightskyblue;
+	padding: 3px;
+	margin-top: 3px;
+	margin-bottom: 20px;*/
+
+
+
+.chart{
+	height: 100px;
+}
+
 
