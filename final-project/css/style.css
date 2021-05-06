@@ -5,12 +5,15 @@ h1{
 	text-align: center;
 	padding: 15px;
 	margin-bottom: 1px;
-	font-family: 'Merriweather', serif;
+	font-family: 'Playfair Display', serif;
 	
 	
 
 }
 
+.byline{
+	font-weight: bold;
+}
 /*
 .boxblue{
 	border: 1px lightskyblue;
@@ -33,6 +36,7 @@ h1{
 h4{
 	text-decoration: underline;
 	text-decoration-color: lightskyblue;
+	font-family: 'Merriweather', serif;
 
 	
 
